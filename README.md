@@ -4,6 +4,7 @@
 一个热爱创作的程序员。
 
 <img width="200" alt="profile" src="https://user-images.githubusercontent.com/25177645/182061667-2b214ca1-2720-4cab-a275-04bb2bd71f0d.png">
+<img width="200" alt="profile" src="https://github.com/maoningme/maoningme.github.io/assets/23329643/22c96d23-0c0d-49a5-a3c0-f3d653b5e24d.png">
 
 ### 创作
 
@@ -29,5 +30,5 @@
 ### 联系方式
 
 - 领英：[Chen Ni](https://www.linkedin.com/in/chen-ni-2b40491b6/)
-- 邮箱：nichen301@sina.com
-- 微信：nichen_m
+- 邮箱：maoningme@163.com
+- 微信：maoning
