@@ -13,9 +13,9 @@ const CONFIG = {
   /** 顶栏与页脚文案 */
   site: {
     headerName: '腾小飞',
-    footerName: '腾小飞',
-    footerOrg: '复旦大学腾飞书院',
-    footerNote: '本页为 github.io 静态部署教程示例 · 左右滑动或方向键切换'
+    footerName: '毛宁',
+    footerOrg: '中国科学院大学',
+    footerNote: '本页为个人网页'
   },
 
   /**
